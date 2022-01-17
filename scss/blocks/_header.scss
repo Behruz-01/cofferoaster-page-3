@@ -1,0 +1,30 @@
+.site-header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0; 
+}
+
+
+.nav__list{
+    display: flex;
+    list-style: none;
+}
+
+.nav__item + .nav__item{
+    margin-left: 40px;
+}
+
+
+.nav__link{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+    &:hover{
+        color: #333D4B;
+    }
+}

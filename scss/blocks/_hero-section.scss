@@ -1,0 +1,38 @@
+// hero-section
+
+.hero{
+    margin-bottom: 170px;
+}
+
+.hero__box{
+    background-image: url("../images/Bitmap\ \(7\).png");
+    background-repeat: no-repeat;
+    padding: 137px 0px 137px 85px;
+    border-radius: 10px;
+}
+
+
+.hero__title{
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+
+
+    
+.hero__description{
+    width: 445px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
+
+
+
