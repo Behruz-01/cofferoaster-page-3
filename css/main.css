@@ -692,10 +692,6 @@ img {
   margin-bottom: 88px;
 }
 
-.form__label:nth-child(2) {
-  margin-left: 25px;
-}
-
 .form__span {
   display: inline-block;
   width: 228px;
@@ -738,12 +734,12 @@ img {
   margin-left: 125px;
 }
 
-.form__span:nth-child(2) {
-  margin-left: 25px;
+.form__span {
+  margin: 0;
 }
 
-.form__span:nth-child(3) {
-  margin-left: 25px;
+.form__span--two {
+  margin: 0 25px;
 }
 
 .form__summary {
